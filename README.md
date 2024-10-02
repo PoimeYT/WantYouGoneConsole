@@ -1,2 +1,1 @@
-# WantYouGoneConsole
-Portal 2's Ending but in console.
+# Portal 2's Ending but in console.
