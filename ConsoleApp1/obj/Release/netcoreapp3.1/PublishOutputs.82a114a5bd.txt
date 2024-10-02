@@ -1,0 +1,12 @@
+C:\Users\James\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\ConsoleApp1.exe
+C:\Users\James\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\ConsoleApp1.dll
+C:\Users\James\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\ConsoleApp1.deps.json
+C:\Users\James\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\ConsoleApp1.runtimeconfig.json
+C:\Users\James\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\ConsoleApp1.pdb
+C:\Users\James\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\NAudio.dll
+C:\Users\James\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\NAudio.Asio.dll
+C:\Users\James\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\NAudio.Core.dll
+C:\Users\James\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\NAudio.Midi.dll
+C:\Users\James\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\NAudio.Wasapi.dll
+C:\Users\James\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\NAudio.WinForms.dll
+C:\Users\James\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\NAudio.WinMM.dll
